@@ -46,7 +46,6 @@
     
 }
 
-
 - (void) didSwipe: (UISwipeGestureRecognizer *) sender {
     switch (sender.direction) {
         case UISwipeGestureRecognizerDirectionLeft:
